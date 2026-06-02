@@ -6,7 +6,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação, g
 
 ### 🎓 Sobre Mim
 
-* 🚀 Atualmente cursando **Análise e Desenvolvimento de Sistemas** no **IFRN - Campus Natal Central (CNAT)**.
+* 🚀 Atualmente cursando **Análise e Desenvolvimento de Sistemas** no **IFRN - Campus Natal Central (CNAT)**, juntamente com um curso técnico de informática no **IMD/UFRN**.
 * 🎯 Meus principais focos de estudo e carreira são **Bioinformática** e **Desenvolvimento Back-End**.
 
 ---
