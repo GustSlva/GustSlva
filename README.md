@@ -14,7 +14,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação.
 
 #### Linguagens de Programação e Marcação
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,nodejs" alt="Minhas Linguagens" />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,js,html,css" alt="Minhas Linguagens" />
 </p>
 
 #### Ferramentas e Ambientes
