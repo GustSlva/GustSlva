@@ -24,9 +24,9 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação.
 
 ---
 
-###  Áreas de Interesse e Estudo
+###  Área de Interesse e Estudo
 
-* ⚙️ **Desenvolvimento Web:** Em transição/estudo para atuar como desenvolvedor de aplicações web (Full-Stack). Minha base de estudos abrange:
+* ⚙️ **Desenvolvimento Web:** Estudando para atuar como desenvolvedor de aplicações web (Full-Stack). Minha base de estudos abrange:
   * **Back-end:** Modelagem de dados com **Python** e **Node.js**.
   * **Front-end:** Criação de interfaces web utilizando **HTML, CSS e JavaScript**.
 ---
