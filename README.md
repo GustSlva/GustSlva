@@ -31,10 +31,6 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação.
 
 ---
 
-
-
----
-
 ### 🤝 Conecte-se comigo
 
 <p align="left">
