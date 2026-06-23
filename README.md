@@ -14,7 +14,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação.
 
 #### Linguagens de Programação e Marcação
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css" alt="Minhas Linguagens" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,nodejs" alt="Minhas Linguagens" />
 </p>
 
 #### Ferramentas e Ambientes
@@ -24,11 +24,11 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação.
 
 ---
 
-### 🧬 Áreas de Interesse e Estudo
+###  Áreas de Interesse e Estudo
 
-* 🧪 **Bioinformática:** Aplicação de algoritmos, Python e R para análise de dados biológicos, sequenciamento e modelagem molecular.
-* ⚙️ **Desenvolvimento Back-End:** Construção de APIs, lógica de servidores, modelagem de banco de dados e arquitetura de sistemas com Python, e JavaScript/Node.js.
-
+* ⚙️ **Desenvolvimento Web:** Em transição/estudo para atuar como desenvolvedor de aplicações web (Full-Stack). Minha base de estudos abrange:
+  * **Back-end:** Modelagem de dados com **Python** e **Node.js**.
+  * **Front-end:** Criação de interfaces web utilizando **HTML, CSS e JavaScript**.
 ---
 
 ### 🤝 Conecte-se comigo
