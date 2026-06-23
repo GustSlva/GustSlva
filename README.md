@@ -31,11 +31,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação.
 
 ---
 
-### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GustSlva&theme=tokyonight&hide_border=true" alt="GustSlva GitHub Streak" />
-</p>
 
 ---
 
