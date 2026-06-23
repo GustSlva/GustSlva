@@ -1,13 +1,12 @@
 # Olá, eu sou Gustavo! 👋
 
-Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação, gosto de explorar o universo dos dados biológicos e estruturar arquiteturas robustas no back-end.
+Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação.
 
 ---
 
 ### 🎓 Sobre Mim
 
 * 🚀 Atualmente cursando **Análise e Desenvolvimento de Sistemas** no **IFRN - Campus Natal Central (CNAT)**, juntamente com um curso técnico de informática no **IMD/UFRN**.
-* 🎯 Meus principais focos de estudo e carreira são **Bioinformática** e **Desenvolvimento Back-End**.
 
 ---
 
@@ -15,12 +14,12 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação, g
 
 #### Linguagens de Programação e Marcação
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,r,js,html,css" alt="Minhas Linguagens" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css" alt="Minhas Linguagens" />
 </p>
 
 #### Ferramentas e Ambientes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,linux" alt="Minhas Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Minhas Ferramentas" />
 </p>
 
 ---
@@ -28,7 +27,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação, g
 ### 🧬 Áreas de Interesse e Estudo
 
 * 🧪 **Bioinformática:** Aplicação de algoritmos, Python e R para análise de dados biológicos, sequenciamento e modelagem molecular.
-* ⚙️ **Desenvolvimento Back-End:** Construção de APIs, lógica de servidores, modelagem de banco de dados e arquitetura de sistemas com Python, C++ e JavaScript/Node.js.
+* ⚙️ **Desenvolvimento Back-End:** Construção de APIs, lógica de servidores, modelagem de banco de dados e arquitetura de sistemas com Python, e JavaScript/Node.js.
 
 ---
 
