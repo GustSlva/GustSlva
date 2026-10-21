@@ -10,25 +10,21 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação.
 * 🌐 Meu portfólio: [**gustavoslva.vercel.app**](https://gustavoslva.vercel.app/)
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias
 
-#### Linguagens de Programação e Marcação
+#### Linguagens de Programação, Frameworks e SGBD:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,nodejs,js,html,css" alt="Minhas Linguagens" />
+  <img src="https://skillicons.dev/icons?i=py,django,postgreesql" alt="Minhas Linguagens" />
 </p>
-
-#### Ferramentas e Ambientes
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma" alt="Minhas Ferramentas" />
-</p>
-
 ---
 
-###  Área de Interesse e Estudo
+### Área de Interesse e Estudo
 
-* ⚙️ **Desenvolvimento Web:** Estudando para atuar como desenvolvedor de aplicações web (Full-Stack). Minha base de estudos abrange:
-  * **Back-end:** Modelagem de dados com **Python**, **Django** e **Node.js**.
-  * **Front-end:** Criação de interfaces web utilizando **HTML, CSS e JavaScript**.
+- ⚙️ **Desenvolvimento Backend:** Desenvolvimento de software, com foco em Python e interesse na construção de aplicações backend. com:
+  - Python, Django, PostgreSQL e desenvolvimento de APIs.
+  - **Ferramentas:** Git e GitHub para versionamento e colaboração em projetos.
+- 🧬 **Objetivo Futuro — Bioinformática:** Buscando construir uma base sólida em programação e ciência de dados para, futuramente, unir tecnologia e biologia na análise de dados biológicos.
+
 ---
 
 ### 🤝 Conecte-se comigo
