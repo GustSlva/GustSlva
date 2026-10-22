@@ -16,9 +16,10 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,django,postgres" alt="Minhas tecnologias" />
 </p>
+
 ---
 
-### Área de Interesse e Estudo
+### Área de Interesse e Estudo:
 
 - ⚙️ **Desenvolvimento Backend:** Desenvolvimento de software, com foco em Python e interesse na construção de aplicações backend. com:
   - Python, Django, PostgreSQL e desenvolvimento de APIs.
