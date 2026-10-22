@@ -14,7 +14,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação.
 
 #### Linguagens de Programação, Frameworks e SGBD:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,postgreesql" alt="Minhas Linguagens" />
+  <img src="https://skillicons.dev/icons?i=py,django,postgres" alt="Minhas tecnologias" />
 </p>
 ---
 
