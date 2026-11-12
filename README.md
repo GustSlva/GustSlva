@@ -31,7 +31,7 @@ Seja bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação.
 ### 🤝 Conecte-se comigo
 
 <p align="left">
-  <a href="gustavosamuel066@gmail.com" target="_blank">
+  <a href="mailto:gustavosamuel066@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-silva-41a2542ba" target="_blank">
